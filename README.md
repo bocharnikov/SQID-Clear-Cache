@@ -1,0 +1,1 @@
+# SQID-Clear-Cache
